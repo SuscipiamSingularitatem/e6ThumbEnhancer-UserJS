@@ -3,7 +3,7 @@
 // @version      0.99
 // @description  Makes thumbnails bigger on the post index and elsewhere, using the higher-res "sample" over the "preview", and allows some animated thumbnails.
 // @author       rooshoes
-// @homepageURL  https://github.com/CyberYiff/e6ThumbEnhancer-UserJS
+// @homepageURL  https://github.com/SuscipiamSingularitatem/e6ThumbEnhancer-UserJS
 // @include      https://e621.net/*
 // @include      https://e926.net/*
 // @grant        GM_addStyle
